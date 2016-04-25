@@ -1,4 +1,3 @@
-
 class ContactMailer < ActionMailer::Base
   default to: 'milesdo83@gmail.com'
 
@@ -8,6 +7,5 @@ class ContactMailer < ActionMailer::Base
     @body = body
 
     mail(form: email, subject: 'Contact Form Message')
-
   end
 end
