@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2193dea-d029-4b19-90b3-2692706ff0d6" name="Default" comment="Modified gemfile for heroku">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environment.rb" afterPath="$PROJECT_DIR$/config/environment.rb" />
     </list>
@@ -572,7 +571,7 @@
       <workItem from="1461272948999" duration="3196000" />
       <workItem from="1461298300746" duration="4257000" />
       <workItem from="1461557913831" duration="2086000" />
-      <workItem from="1461563529325" duration="660000" />
+      <workItem from="1461563529325" duration="823000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1460393373856</created>
@@ -628,7 +627,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41119000" />
+    <option name="totallyTimeSpent" value="41282000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
