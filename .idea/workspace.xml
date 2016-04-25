@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b2193dea-d029-4b19-90b3-2692706ff0d6" name="Default" comment="Modified gemfile for heroku">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
     </list>
     <list id="a600f73e-30fc-4a43-9480-917f241d4b47" name="Failed commit: Default" comment="initial commit" />
     <ignored path="simplecodecasts_saas.iws" />
@@ -143,8 +144,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="330" />
-    <option name="y" value="30" />
+    <option name="x" value="614" />
+    <option name="y" value="33" />
     <option name="width" value="1218" />
     <option name="height" value="1000" />
   </component>
@@ -591,7 +592,7 @@
       <workItem from="1461298300746" duration="4257000" />
       <workItem from="1461557913831" duration="2086000" />
       <workItem from="1461563529325" duration="2573000" />
-      <workItem from="1461603450369" duration="165000" />
+      <workItem from="1461603450369" duration="468000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1460393373856</created>
@@ -647,7 +648,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43197000" />
+    <option name="totallyTimeSpent" value="43500000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -660,7 +661,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="330" y="30" width="1218" height="1000" extended-state="0" />
+    <frame x="614" y="33" width="1218" height="1000" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26615646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
