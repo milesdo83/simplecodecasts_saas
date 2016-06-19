@@ -59,7 +59,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
   gem 'devise', '3.4.1'
  # Use Stripe for handling payments
   gem 'stripe', '1.16.1'
-
+  #Use figaro to hide secret keys
   gem 'figaro', '1.0.0'
 
 #end
