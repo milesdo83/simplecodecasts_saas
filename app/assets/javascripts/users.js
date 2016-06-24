@@ -29,7 +29,7 @@ $(document).ready(function () {
         var token = response.id;
 
         //add the token to the form:
-        f.append('<input type="hidden" name="user[stripe_card_token]" value"' + token + '" />');
+        f.append('<input type="hidden" name="user[stripe_card_token]" value="' + token + '" />');
 
         // submit the form:
         f.get(0).submit();
